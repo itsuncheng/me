@@ -1,3 +1,3 @@
 # Personal Website
     
-##### deployed app : https://itsuncheng.github.io
+##### deployed app : https://itsuncheng.github.io/me
